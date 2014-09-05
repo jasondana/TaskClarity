@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskClarity</string>
+    <string name="new_task">New Task</string>
+    <string name="task_title">Task Title</string>
+    <string name="task_value">Task Value</string>
+    <string name="new_page">New Page</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept_task">Accept Task</string>
+    <string name="discard_task">Discard Task</string>
+    <string name="accept_page">Accept Page</string>
+    <string name="discard_page">Discard Page</string>
+    <string name="refresh_name">Refresh</string>
+    <string name="settings_name">Settings</string>
+    <string name="pref_summary_accounts">Google accounts to sync tasks with</string>
+    <string name="pref_title_accounts">Accounts</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>New Page</item>
+        <item>Delete Page</item>
+        <item>Settings</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_action_new</item>
+        <item>@drawable/ic_action_discard</item>
+        <item>@drawable/ic_action_settings</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

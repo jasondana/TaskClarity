@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+            android:summary="@string/pref_summary_accounts"
+            android:title="@string/pref_title_accounts">
+        <intent android:targetPackage="com.jasondana.tasker"
+                android:targetClass="com.jasondana.tasker.AccountsActivity"/>
+    </Preference>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/accept"
+          android:title="@string/accept_page"
+          android:icon="@drawable/ic_action_accept"
+          android:showAsAction="always"/>
+    <item android:id="@+id/discard"
+          android:title="@string/discard_page"
+          android:icon="@drawable/ic_action_discard"
+          android:showAsAction="always"/>
+</menu>
